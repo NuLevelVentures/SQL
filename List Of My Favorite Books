@@ -1,0 +1,5 @@
+CREATE TABLE Books(id INTEGER PRIMARY KEY, book_title TEXT, author TEXT); 
+
+INSERT INTO Books VALUES (1,"Rich Dad Poor Dad", "Robert_Kyosaki");
+INSERT INTO Books VALUES (2,"Master Your Brain" , "Phillip_Adcock"); 
+INSERT INTO Books VALUES (3,"Apocalypse Code", "Hal Lindsey");
