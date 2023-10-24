@@ -1,0 +1,18 @@
+CREATE TABLE Grocery_Store (id INTEGER PRIMARY KEY, name TEXT, Quantity INTEGER);
+
+INSERT INTO Grocery_Store VALUES (1, "Dragon Fruit", 4);
+INSERT INTO Grocery_Store VALUES (2,  "Watermelon", 6);
+INSERT INTO Grocery_Store VALUES (3, "Pineapples", 2);
+INSERT INTO Grocery_Store VALUES (4, "SourSop", 7);
+INSERT INTO Grocery_Store VALUES (5, "Lemons", 25);
+INSERT INTO Grocery_Store VALUES (6, "Beets", 11);
+INSERT INTO Grocery_Store VALUES (7, "Spanish Lime", 15);
+INSERT INTO Grocery_Store VALUES (8, "Coconut", 8);
+INSERT INTO Grocery_Store VALUES (9, "Honey Dew Melon", 14);
+INSERT INTO Grocery_Store VALUES (10, "Oranges", 22);
+INSERT INTO Grocery_Store VALUES (11, "Apples", 17);
+INSERT INTO Grocery_Store VALUES (12, "Blackberries", 125);
+INSERT INTO Grocery_Store VALUES (13, "Blueberries", 140); 
+INSERT INTO Grocery_Store VALUES (14, "Grapes", 175);
+INSERT INTO Grocery_Store VALUES (15, "Passion Fruit", 45);
+SELECT * FROM Grocery_Store; VALUES (3, "Pineapples");
